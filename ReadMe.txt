@@ -20,7 +20,7 @@ In a separate CMD window (Frontend):
 	npx serve Frontend
 
 Before running the project, please ensure that ffmpeg is installed. If not:
-	I have Given the file in Additional files with the name "ffmpeg-7.1.1-full_build"
+	Download ffmpeg from https://www.ffmpeg.org/download.html
 	Copy the bin folder path (e.g., C:\ffmpeg-7.1.1-full_build\bin)
 	Add it to your system PATH:
 		Open Start → search "Environment Variables"
@@ -33,5 +33,6 @@ This repo is for **educational use only**. Do **not** use the port scanner on sy
 
 ## Contact
 GitHub: `https://github.com/L0stxRising` — PRs and issues welcome.
+
 
 
